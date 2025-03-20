@@ -1,3 +1,9 @@
 body {
 	background-color: aqua;
 }
+
+footer {
+	background-color: black;
+	padding: 20px;
+	color: white;
+}
